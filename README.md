@@ -1,8 +1,10 @@
-# lab_modelacion_2s_2019
-Repositorio destinado a seguir el progreso de los alumnos del curso
+<img src="material/images/usm.png" width="480" height="240" align="left"/>
 
 # MAT282 - 2° Semestre 2019
 ## Laboratorio de Modelación l
+
+Repositorio destinado a seguir el progreso de los alumnos del curso
+
 
 ## Contenidos
 
