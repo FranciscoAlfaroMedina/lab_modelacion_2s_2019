@@ -29,7 +29,7 @@ Repositorio destinado a seguir el progreso de los alumnos del curso
 ## Semana 01
 
 ### Descripción
-La primera semana tendrá como objetivo que se familiaricen con python y sus principales librerías. Además, de familiarizarse con jupyter notebbok (jupyter lab), ambientes virtuales y github.
+La primera semana tendrá como objetivo que comprender aspectos básicos de python y sus principales librerías. Además, de familiarizarse con jupyter notebbok (jupyter lab), ambientes virtuales y github.
 
 ### Tareas
 
@@ -43,4 +43,13 @@ La primera semana tendrá como objetivo que se familiaricen con python y sus pri
     * Cómo funciona las librerias  numpy, pandas y matplotlib (Para más detalles vea en la carpeta **material**)
 
 
+## Semana 02
 
+### Descripción
+La segunda semana tendrá como objetivo que comprender aspectos básicos del proyecto. Para eso a cada alumno se le pedirá que realice un tutorial (en español) del proyecto.
+
+
+### Tareas
+
+1. Leer y comprender los siguientes tutoriales:
+   * Proyecto 01: [Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python/blob/master/Time%20Series%20in%20Python.ipynb)
