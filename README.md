@@ -56,4 +56,8 @@ La segunda semana tendrá como objetivo que comprender aspectos básicos del pro
    * **Reconocimiento Facial**: [face-recognition](https://github.com/krasserm/face-recognition/blob/master/face-recognition.ipynb)
    * **Dinámica Poblacional con geolocalización**: [Kalman-Filter](https://github.com/balzer82/Kalman/blob/master/Kalman-Filter-CV.ipynb?create=1)
    
-2. Crear un archivo jupyter notebook denominado **tutorial.ipynb** en su repositorio, en donde expliquen detalladamente los tópicos que abordan en cada repositorio. 
+2. Crear un archivo jupyter notebook denominado **tutorial.ipynb** en su repositorio, en donde expliquen detalladamente los tópicos que abordan en cada repositorio. Por ejemplo:
+   * Teoría detrás de cada proyecto
+   * Principales librerías
+   * Implementación 
+   * Posibles mejoras
