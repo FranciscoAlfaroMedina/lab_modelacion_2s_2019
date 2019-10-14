@@ -52,4 +52,8 @@ La segunda semana tendrá como objetivo que comprender aspectos básicos del pro
 ### Tareas
 
 1. Leer y comprender los siguientes tutoriales:
-   * Proyecto 01: [Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python/blob/master/Time%20Series%20in%20Python.ipynb)
+   * **Análisis de demanda mediante series temporales**: [Introduction-to-Time-Series-forecasting-Python](https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python/blob/master/Time%20Series%20in%20Python.ipynb)
+   * **Reconocimiento Facial**: [face-recognition](https://github.com/krasserm/face-recognition/blob/master/face-recognition.ipynb)
+   * **Dinámica Poblacional con geolocalización**: [Kalman-Filter](https://github.com/balzer82/Kalman/blob/master/Kalman-Filter-CV.ipynb?create=1)
+   
+2. 
