@@ -61,3 +61,20 @@ La segunda semana tendrá como objetivo que comprender aspectos básicos del pro
    * Principales librerías
    * Implementación 
    * Posibles mejoras
+   
+   
+## Semana 03
+
+### Descripción
+La tercera semana tendrá como objetivo es conocer el estado del arte de los distintos proyectos. Para esto tendrán que leer lo que existe en la literatura, como se ha implementado y los resultados obtenidos.
+
+
+
+### Tareas
+
+1. Leer y comprender los siguientes papers:
+   * **Análisis de demanda mediante series temporales**: Sales Demand Forecast in E-commerce using a Long Short-Term Memory Neural Network Methodology.
+   * **Reconocimiento Facial**: DeepFace: Closing the Gap to Human-Level Performance in Face Verification.
+   * **Dinámica Poblacional con geolocalización**: An Introduction to the Kalman Filter.
+   
+2. Crear un archivo jupyter notebook denominado **estado_arte.ipynb** en su repositorio, en donde expliquen detalladamente los temas (teoría y código).
