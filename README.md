@@ -43,6 +43,8 @@ La primera semana tendrá como objetivo que comprender aspectos básicos de pyth
     * Cómo funciona las librerias  numpy, pandas y matplotlib (Para más detalles vea en la carpeta **material**)
 
 
+Tiempo: 1-2 semanas.
+
 ## Semana 02
 
 ### Descripción
@@ -62,6 +64,7 @@ La segunda semana tendrá como objetivo que comprender aspectos básicos del pro
    * Implementación 
    * Posibles mejoras
    
+Tiempo: 1-2 semanas.
    
 ## Semana 03
 
@@ -78,3 +81,17 @@ La tercera semana tendrá como objetivo es conocer el estado del arte de los dis
    * **Dinámica Poblacional con geolocalización**: An Introduction to the Kalman Filter.
    
 2. Crear un archivo jupyter notebook denominado **estado_arte.ipynb** en su repositorio, en donde expliquen detalladamente los temas (teoría y código).
+
+Tiempo: 1-2 semanas.
+
+# Semana 04
+
+### Descripción
+La cuarta semana tendrá como trabajar lo visto en el estado del arte con código en python.
+
+
+### Tareas
+
+1. Crear un archivo jupyter notebook denominado **aplicacion.ipynb** en su repositorio, en donde apliquen los resultados de su investigación en el estado del arte.
+
+Tiempo: 1-2 semanas.
